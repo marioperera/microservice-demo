@@ -7,8 +7,8 @@ spring:
         git:
           uri: https://github.com/marioperera/spring-cloud-config-server-repository.git
           default-label: main
-          username: marioperera
-          password: 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
+          username: xxx
+          password: xxx
           clone-on-start: true
       fail-fast: true
   security:
